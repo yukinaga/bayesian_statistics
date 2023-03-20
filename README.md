@@ -1,4 +1,4 @@
-# ChatGPT APIを使ってチャットボットを作ろう！【GPT-3.5/GPT-4】
+# はじめてのベイズ統計【PyMC3+Colab】
   
 「はじめてのベイズ統計」は、ベイズ統計の基礎を学ぶ初心者向け講座です。  
 Google Colaboratory環境で、Pythonのコードを書きながらベイズ統計について学びます。  
@@ -20,7 +20,7 @@ Section4. ベイズ統計の応用
 Section5. ベイズ統計と機械学習  
 → 機械学習を、ベイズ統計と関連付けて学びます。  
   
-connpassイベント: [ChatGPT APIを使ってチャットボットを作ろう！【GPT-3.5/GPT-4】](https://liveai.connpass.com/event/278585/)    
+Udemyコース: [はじめてのベイズ統計【PyMC3+Colab】](https://www.udemy.com/course/bayesian/?referralCode=5042CEBA645DD31211D9)    
   
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
